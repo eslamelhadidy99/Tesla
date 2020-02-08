@@ -1,0 +1,26 @@
+	X-MailControl-Globvar-Relay: mout.perfora.net
+X-MailControl-Globvar-EnvSender: DATA
+Received: from mout.perfora.net (mout.perfora.net [74.208.4.194]) (using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits)) (No client certificate requested) by Email Gateway with ESMTPS id 57B5B8DD02868A6B90C0 for <adibegypt@adib.eg>; Wed, 15 Jan 2020 00:56:35 +0200 (EET)
+Received: from [46.21.147.36] ([46.21.147.36]) by mrelay.perfora.net (mreueus001 [74.208.5.2]) with ESMTPA (Nemesis) id 0M8gMf-1jdhsa3Ttb-00wG86; Tue, 14 Jan 2020 23:54:09 +0100
+Content-Type: multipart/mixed; boundary="===============0935334154=="
+MIME-Version: 1.0
+Subject: Payment advice-BFTI_EFT7602019123014010054_18_7603
+To: Recipients <paylink.asia@citi.com>
+From: =?utf-8?q?Citibank_BE=C2=AE_=3Cpaylink=2Easia=40citi=2Ecom=3E?=
+Date: Tue, 14 Jan 2020 14:53:30 -0800
+Message-ID: <0Lr0xJ-1jMAzK0wuR-00eaik@mrelay.perfora.net>
+X-Provags-ID: V03:K1:Y0iOREBlcXZHQhzIgdnOXRkm1crGzmu3bWlwLIEjvieuxPlVM6E eI5JOf2h+ED4lF3cX/+JBMNdGoCF1AUaKQzQPOAsbpTwgmzvZiJgn6+BqIRaqdET+QndFWX Dprs0xpSyNanmwM4qcTrQZxH3XAlxMLqOpUy1AMuxZDEMfkBEzReOMvZinFbnzm5Jyu/x71 XzNqn3c+pi6udm2oU0lcA==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:Eu+BV4bgrag=:91eU+uMZhNNnRLvI9I1Pbd UWfoOztaSOXSYjFmNDcxSOMdG5CJPuqY3XdhKs2WemG5ah0ICxwQU+xOlYY4WwG9mg/yhtCKa 7hlJS1elkZZUsOSSw7OhVYtw/vDjZar7SZcJdO66vyZjkXOkngz2ovnCVzOp0EdKLDlSifnpl 0BWidFpCjOFLhv7yoPWNG+n+pa61GQYIFaUcYM9P/8VT93ZUjWqsqZ8iuI+rct25/oD1UwtyO 8PyBiBrdHaF45RXwzsXLM4fQl3FpdXHf2ALe6nqnjUrvVVr8r9cerR9kaGzDdFhzbCn2T0AfS wN59qg6XfWeqAPWWJV2Ah4icygb2EQmj/3GTJAOzMwLsfLOQ5YffSlGIPKsGeqnED4ori5xfa jjbOfFc9/xKF5coOcwgIVC4jK2umqHDQpuzhCaUwAeAZss7xYx5GTHFh9CQUTvldxXwzCK69a Hto5KapZAduP0fe19lC07uKfMBi6Kaf8EWZ1IRbXkf9/4WEU4FSGUjN0MnUK5jL9MOkvYF7ka wf5HJDOtGXUOCkBsmmP914fEVh3a60FtG9X0tb9RdRpwcEOGsPrV49EINX+dS8KWrHNKGSb9W sRdadn3fUTfOAH/QE6+YnqZtBIYBL9got2uF3CK8fRSZsX030f0NJMxPEVTAD2FDg//Mm5yIX 77Xy5lU7Ak+nWTqVsE3Aynqx8BsQoZRwq5/jB3flKW8T2j7LKzRMfBWmlAg6E1hbGKnYnNa13 5eEQzyRoF6WIN8bx/j/2YbZGDb0dL/TFoDILRA==
+------------------------------------------------------------
+X-MailControl-Globvar-Relay: server186.managedns.org
+X-MailControl-Globvar-EnvSender: DATA
+Received: from server186.managedns.org (server186.managedns.org [103.14.98.190]) (using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384 (256/256 bits)) (No client certificate requested) by Email Gateway with ESMTPS id DC501696C91D1ECCDB10 for <adibegypt@adib.eg>; Wed, 5 Feb 2020 22:17:43 +0200 (EET)
+Received: from [46.21.147.36] (36.147.21.46.in-addr.arpa [46.21.147.36]) by server186.managedns.org with SMTP; Thu, 6 Feb 2020 01:47:46 +0530
+Content-Type: multipart/mixed; boundary="===============1002660428=="
+MIME-Version: 1.0
+Subject: Incoming Payment advice-BG_EDG9532020020500500047_126_953
+To: Recipients <paylink.asia@citi.com>
+From: Citibank PayLink <paylink.asia@citi.com>
+Date: Wed, 05 Feb 2020 12:17:43 -0800
+-------------------------------------------------------------------
